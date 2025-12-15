@@ -146,16 +146,3 @@ This is experimental software. It's not meant for production use, and running it
 
 This project is open source and available for educational purposes. Feel free to learn from it, modify it, and share your improvements!
 
----
-
-## 🌈 Final Thoughts
-
-If you've made it this far, thank you for taking the time to explore this project. Whether you're here to learn, contribute, or just satisfy your curiosity, I hope you find something interesting.
-
-Remember: every expert was once a beginner. Every operating system started with a single line of code. This is my contribution to that journey, and I'm excited to see where it leads.
-
-Happy coding! 🎉
-
----
-
-*Made with ❤️ and lots of ☕*
